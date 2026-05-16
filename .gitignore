@@ -1,0 +1,20 @@
+# Локальні залежності та кеші
+node_modules/
+.npm/
+.cache/
+__pycache__/
+.pytest_cache/
+
+# Локальні середовища
+.venv/
+venv/
+
+# Локальний шум ОС та редакторів
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Generated PDF render previews
+deliverables/pdf-render/

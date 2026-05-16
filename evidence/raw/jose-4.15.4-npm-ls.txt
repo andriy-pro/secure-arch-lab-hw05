@@ -1,0 +1,2 @@
+jose-4.15.4@1.0.0 /home/goit/projects/secure-arch-lab-hw05/work/jose-4.15.4
+└── jose@4.15.4

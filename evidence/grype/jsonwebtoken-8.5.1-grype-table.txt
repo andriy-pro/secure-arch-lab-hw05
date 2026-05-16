@@ -1,0 +1,4 @@
+NAME          INSTALLED  FIXED IN  TYPE  VULNERABILITY        SEVERITY  EPSS           RISK
+jsonwebtoken  8.5.1      9.0.0     npm   GHSA-8cf7-32gw-wr33  High      < 0.1% (21st)  < 0.1
+jsonwebtoken  8.5.1      9.0.0     npm   GHSA-hjrf-2m68-5959  Medium    < 0.1% (18th)  < 0.1
+jsonwebtoken  8.5.1      9.0.0     npm   GHSA-qwph-4952-7xr6  Medium    < 0.1% (5th)   < 0.1

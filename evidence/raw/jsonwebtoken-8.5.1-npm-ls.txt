@@ -1,0 +1,18 @@
+jsonwebtoken-8.5.1@1.0.0 /home/goit/projects/secure-arch-lab-hw05/work/jsonwebtoken-8.5.1
+└─┬ jsonwebtoken@8.5.1
+  ├─┬ jws@3.2.3
+  │ ├─┬ jwa@1.4.2
+  │ │ ├── buffer-equal-constant-time@1.0.1
+  │ │ ├─┬ ecdsa-sig-formatter@1.0.11
+  │ │ │ └── safe-buffer@5.2.1 deduped
+  │ │ └── safe-buffer@5.2.1 deduped
+  │ └── safe-buffer@5.2.1
+  ├── lodash.includes@4.3.0
+  ├── lodash.isboolean@3.0.3
+  ├── lodash.isinteger@4.0.4
+  ├── lodash.isnumber@3.0.3
+  ├── lodash.isplainobject@4.0.6
+  ├── lodash.isstring@4.0.1
+  ├── lodash.once@4.1.1
+  ├── ms@2.1.3
+  └── semver@5.7.2

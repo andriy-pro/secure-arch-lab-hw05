@@ -1,0 +1,3 @@
+NAME         VERSION  TYPE
+jose         4.15.4   npm
+jose-4.15.4  1.0.0    npm

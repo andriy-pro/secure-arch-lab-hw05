@@ -1,0 +1,13 @@
+*.md text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.tsv text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+
+*.css

@@ -1,0 +1,17 @@
+NAME                        VERSION  TYPE
+buffer-equal-constant-time  1.0.1    npm
+ecdsa-sig-formatter         1.0.11   npm
+jsonwebtoken                8.5.1    npm
+jsonwebtoken-8.5.1          1.0.0    npm
+jwa                         1.4.2    npm
+jws                         3.2.3    npm
+lodash.includes             4.3.0    npm
+lodash.isboolean            3.0.3    npm
+lodash.isinteger            4.0.4    npm
+lodash.isnumber             3.0.3    npm
+lodash.isplainobject        4.0.6    npm
+lodash.isstring             4.0.1    npm
+lodash.once                 4.1.1    npm
+ms                          2.1.3    npm
+safe-buffer                 5.2.1    npm
+semver                      5.7.2    npm
